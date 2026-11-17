@@ -49,3 +49,13 @@
 
 - 这副眼镜 (zhè fù yǎnjìng): 이 안경
 - 这款智能眼镜 (zhè kuǎn zhìnéng yǎnjìng): 이 스마트 안경 모델
+
+
+## 8. 2026-11-17 추가 학습: 비교·쇼핑·질문·의도
+
+- **비교:** [跟…比起来 / 和…相比 / 比 / 比较](comparison-and-degree.md)
+- **추측:** [好像没有](comparison-and-degree.md#3-好像没有-hǎoxiàng-méiyǒu)
+- **가격·흥정:** [人民币 / 元 / 块 / 可以便宜一点吗](shopping-and-currency.md)
+- **수업 질문·확인:** [我想问一下 / 我没听懂 / 这样说可以吗](questions-and-intentions.md)
+- **의도·예정:** [想 / 要](questions-and-intentions.md)
+- **그러면:** [那 / 那么 / 既然这样 / 这样的话](questions-and-intentions.md)
