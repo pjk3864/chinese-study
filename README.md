@@ -26,3 +26,14 @@
 4. 틀린 표현을 오답 노트에 남기고 다음 날 다시 풀어본다.
 
 공개 저장소입니다. 개인정보·비공개 대화는 업로드하지 마세요.
+
+## 2026-11-17 추가 수업 (첨부 학습 대화 정리)
+
+- [추가 수업 종합 학습 일지](04-practice/2026-11-17-session-2.md)
+- [패션·쇼핑 단어장](02-vocabulary/fashion-shopping-2026-11-17.md)
+- [비교·정도·추측 표현](03-grammar/comparison-and-degree.md)
+- [가격·통화·흥정 회화](03-grammar/shopping-and-currency.md)
+- [질문·이해 확인·想/要·접속 표현](03-grammar/questions-and-intentions.md)
+- [100점 종합 복습 퀴즈](04-practice/2026-11-17-comprehensive-review.md)
+
+원문 대화에서 설명된 이미지 파일 자체는 제공되지 않았으며, 이미지 속 상품 가격은 학습 예시입니다.
